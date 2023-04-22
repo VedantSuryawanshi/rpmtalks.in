@@ -19,6 +19,4 @@ Galloping away from the city life, the guests soon escaped into nature's deepest
 
 After spending some time at the luxurious villa, the Ferraris made their way back to the city, leaving behind an exhilarating Sunday feeling with other fellow Ferraristas. The event showcased the true spirit of Ferrari and the passion of its fans, providing guests with a unique opportunity to explore the unmatched performance of these remarkable vehicles.
 
-Team Ferrari Mumbai would like to thank the Ferraristas who attended the Brunch & Drive event and look forward to welcoming them again for more such events. The gallery of the event offers a glimpse into the breathtaking scenery and unforgettable moments from the event, providing a glimpse of what it feels like to be part of the Ferrari family.
-
 If you missed this event, make sure to keep an eye out for future events, as Ferrari Mumbai continues to host such exclusive and unforgettable experiences for Ferraristas. With its unmatched performance and breathtaking design, the Ferrari models continue to capture the hearts and imaginations of automotive enthusiasts around the world.

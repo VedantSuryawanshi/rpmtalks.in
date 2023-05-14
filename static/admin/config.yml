@@ -2,7 +2,7 @@
 backend:
   name: rpmtalks
   # change repo to your git repository url
-  repo: https://github.com/VedantSuryawanshi/rpmtalks.in
+  repo: VedantSuryawanshi/rpmtalks.in
 
 media_folder: static/assets
 public_folder: /assets

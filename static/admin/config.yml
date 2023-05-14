@@ -1,8 +1,8 @@
 
 backend:
-  name: github
+  name: rpmtalks
   # change repo to your git repository url
-  repo: W3Layouts/gatsby-starter-delog
+  repo: https://github.com/VedantSuryawanshi/rpmtalks.in
 
 media_folder: static/assets
 public_folder: /assets
